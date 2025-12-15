@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "虹の素",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-15T19:28:47.799832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虹の素",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_虹の素_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹の素",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_虹の素_=LOVE.txt"
+    }
+  ]
+}
